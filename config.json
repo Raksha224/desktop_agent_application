@@ -1,0 +1,5 @@
+{
+    "screenshot_interval": 300,
+    "capture_screenshots": true,
+    "blur_screenshots": false
+}
